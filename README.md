@@ -76,9 +76,13 @@ Even if a password has high entropy, it will be marked as **Very Weak** if it ap
 - All analysis happens strictly in your browser.
 - No analytics or external tracking scripts are used.
 
+---
+
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
 
 ## Author
 Vision KC
