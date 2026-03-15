@@ -15,6 +15,8 @@ PassStrength is a sleek, client-side password strength analyzer built with zero 
 - **📱 Fully Responsive**: Optimized for both mobile and desktop screens.
 - **♿ Accessible**: ARIA labels, semantic HTML, and full keyboard navigation support.
 
+---
+
 ## 🚀 Getting Started
 
 Since this is a vanilla project, you don't need any build steps.
@@ -31,6 +33,7 @@ Since this is a vanilla project, you don't need any build steps.
    # Using Python
    python3 -m http.server 8000
    ```
+---
 
 ## 🧠 How It Works
 
@@ -55,6 +58,8 @@ Points are deducted for predictable patterns:
 
 ### 4. Blacklist Override
 Even if a password has high entropy, it will be marked as **Very Weak** if it appears in our common passwords list.
+
+---
 
 ## 🛠️ Technology Stack
 
