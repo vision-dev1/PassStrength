@@ -85,7 +85,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## Author
-Vision KC
+Vision KC<br>
 [Github](https://github.com/vision-dev1)<br>
 [Portfolio](https://visionkc.com.np)
 
