@@ -28,4 +28,4 @@ python pass_strength.py
 ## Credits
 
 - Made by Vision
-- GitHub: [vision-dev1](https://github.com/vision-dev1)
+- GitHub: [visionxstack](https://github.com/visionxstack)
